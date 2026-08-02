@@ -7,3 +7,4 @@
 ## [2026-08-02] compile | Compiled English and 408 sources into two synthesized articles per topic and rebuilt their indexes
 ## [2026-08-02] operations | Changed operations/_index.md, operations/NOW.md, operations/DASHBOARD.md, operations/proposals/, operations/tracks/_index.md, and operations/tracks/kaoyan/; source project and existing raw files unchanged
 ## [2026-08-02] compile | Incremental Hub compile check completed; math=0, english=0, 408=0 pending sources
+## [2026-08-02] operations | Removed the applied kaoyan migration proposal and its index entries; retained append-only audit history
