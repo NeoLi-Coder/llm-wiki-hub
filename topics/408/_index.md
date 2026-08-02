@@ -2,6 +2,14 @@
 
 > 可复用的 408 计算机基础知识主题。
 
+Last updated: 2026-08-02
+
+Last compiled: 2026-08-02
+
 ## Contents
 
-已导入 4 个核心来源，尚未编译知识文章。
+Sources: 4
+
+Articles: 2
+
+已从 4 个核心来源编译 2 篇综合文章。
