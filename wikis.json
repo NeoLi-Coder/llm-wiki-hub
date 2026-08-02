@@ -1,0 +1,10 @@
+{
+  "default": "<HUB>",
+  "wikis": {
+    "hub": { "path": "<HUB>", "description": "Hub" },
+    "math": { "path": "topics/math", "description": "数学知识主题" },
+    "english": { "path": "topics/english", "description": "英语一知识主题" },
+    "408": { "path": "topics/408", "description": "408 计算机基础知识主题" }
+  },
+  "local_wikis": []
+}

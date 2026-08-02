@@ -1,0 +1,24 @@
+# Claude Code repo docs plus internal/user-local state
+.claude/*
+!.claude/release-checklist.md
+
+# Codex local/project-local state
+.codex/
+.tmp/
+__pycache__/
+benchmarks/results/
+
+# Obsidian 本地工作区状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# Windows
+Thumbs.db
+Desktop.ini
