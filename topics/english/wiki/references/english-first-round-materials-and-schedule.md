@@ -5,13 +5,15 @@ sources:
   - raw/notes/2026-08-02-english-learning-system-v1-1.md
   - raw/notes/2026-08-02-english-first-round-route-v1.md
   - raw/notes/2026-08-02-english-weekly-plan-v1.md
+  - raw/notes/2026-08-04-tianjing-2027-english-course-directory.md
+  - raw/notes/2026-08-04-tangchi-2027-english-course-directory.md
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 tags: [考研, 英语一, 资料, 周计划]
 aliases: [英语一第一轮计划, 英语一资料方案]
 confidence: medium
 volatility: warm
-verified: 2026-08-02
+verified: 2026-08-04
 summary: "英语一第一轮的教师分工、阶段安排、正常周节奏、真题范围和低状态处理规则。"
 ---
 
@@ -24,6 +26,14 @@ summary: "英语一第一轮的教师分工、阶段安排、正常周节奏、�
 - 石雷鹏：基础写作、功能表达和主动输出。
 
 三条线按阶段调整比重，不同时追求全部课程进度。课程必须通过独立拆句、阅读作答和输出验证。
+
+## 已核验的课程目录
+
+田静目录提供词汇、`单词之间`、`句句真研`、基础语法、专项训练和阶段测试资源，可对应词汇、句法与长难句主线。唐迟目录提供英语一领学班课程、课件与资料，且含 2011—2015 年阅读课堂笔记，可与早期真题训练衔接。目录只确认资料可用，不代表任何课程、真题或测试已经完成。
+
+## 指定知识点时的用法
+
+后续指定英语知识点或题型时，先以课程目录定位词汇、句法、长难句或阅读的对应课程、课件和必要练习，只选择当前问题所需的一条主线资源。目录找不到明确对应项时，如实标记为待确认，不以资料数量补充推断。实际学习、做题和掌握情况仍只在用户提供 Record 后更新。
 
 ## 阶段安排
 
@@ -65,3 +75,5 @@ summary: "英语一第一轮的教师分工、阶段安排、正常周节奏、�
 - [英语一学习体系与词汇学习方法](../../raw/notes/2026-08-02-english-learning-system-v1-1.md)
 - [英语一第一轮复习路线](../../raw/notes/2026-08-02-english-first-round-route-v1.md)
 - [英语一第一轮详细周计划](../../raw/notes/2026-08-02-english-weekly-plan-v1.md)
+- [田静 2027 英语一课程目录](../../raw/notes/2026-08-04-tianjing-2027-english-course-directory.md)
+- [唐迟 2027 英语一课程目录](../../raw/notes/2026-08-04-tangchi-2027-english-course-directory.md)

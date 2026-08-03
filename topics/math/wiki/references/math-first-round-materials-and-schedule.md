@@ -5,13 +5,16 @@ sources:
   - raw/notes/2026-08-02-math-materials-v1.md
   - raw/notes/2026-08-02-math-weekly-plan-v1.md
   - raw/notes/2026-08-02-math-first-round-route-v1.md
+  - raw/notes/2026-08-04-wuzhongxiang-2027-math-course-directory.md
+  - raw/notes/2026-08-04-liyongle-2027-linear-algebra-course-directory.md
+  - raw/notes/2026-08-04-wangshian-2027-probability-course-directory.md
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-04
 tags: [考研, 数学一, 资料, 周计划]
 aliases: [数学一资料方案, 数学一第一轮计划]
 confidence: medium
 volatility: warm
-verified: 2026-08-02
+verified: 2026-08-04
 summary: "综合数学一主线资料、时间预算、阶段安排和偏差处理规则，作为第一轮执行参考。"
 ---
 
@@ -22,6 +25,14 @@ summary: "综合数学一主线资料、时间预算、阶段安排和偏差处�
 资料选择遵循“一个主体系、少量补充、大量输出训练”。高数以武忠祥为主线，张宇只用于补充难理解的知识点或方法；线性代数以李永乐为主线；概率论在王式安和张宇概率中选择一套体系完整、讲解清楚的主线。配套基础题和章节题用于训练，真题在主干建立后进入。
 
 资料不是学习路线。正确顺序是先依据考试目标和章节规划确定学习内容，再选择对应课程或讲义。第一轮不同时跟多位老师的同一科目，课程时间原则上控制在数学学习时间的 40% 以内，把主要时间留给做题、总结和错题复盘。
+
+## 已核验的课程目录
+
+武忠祥目录提供高数主线课程、讲义、基础练习册、严选题、公式手册和数一 660 题；其中混有数二、数三资料，必须按数学一章节筛选。李永乐目录覆盖线代零基础、考纲基础精讲、强化和 660 精选题；王式安目录提供概率论学习册和严选题。它们确认资料可用，但不代表任何课程或题目已经完成。
+
+## 指定知识点时的用法
+
+后续指定数学知识点时，先以课程目录定位对应教师、讲义与配套练习，只选择该知识点所需的一条主线资源。目录找不到明确对应项时，如实标记为待确认，不以资料数量补充推断。实际学习、做题和掌握情况仍只在用户提供 Record 后更新。
 
 ## 周期节奏
 
@@ -55,3 +66,6 @@ summary: "综合数学一主线资料、时间预算、阶段安排和偏差处�
 - [数学一第一轮复习资料选择与使用方案](../../raw/notes/2026-08-02-math-materials-v1.md)
 - [数学一第一轮详细周计划](../../raw/notes/2026-08-02-math-weekly-plan-v1.md)
 - [数学一第一轮复习路线](../../raw/notes/2026-08-02-math-first-round-route-v1.md)
+- [武忠祥 2027 考研数学课程目录](../../raw/notes/2026-08-04-wuzhongxiang-2027-math-course-directory.md)
+- [李永乐 2027 线性代数课程目录](../../raw/notes/2026-08-04-liyongle-2027-linear-algebra-course-directory.md)
+- [王式安 2027 概率论资料目录](../../raw/notes/2026-08-04-wangshian-2027-probability-course-directory.md)

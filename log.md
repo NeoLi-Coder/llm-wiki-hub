@@ -8,3 +8,5 @@
 ## [2026-08-02] operations | Changed operations/_index.md, operations/NOW.md, operations/DASHBOARD.md, operations/proposals/, operations/tracks/_index.md, and operations/tracks/kaoyan/; source project and existing raw files unchanged
 ## [2026-08-02] compile | Incremental Hub compile check completed; math=0, english=0, 408=0 pending sources
 ## [2026-08-02] operations | Removed the applied kaoyan migration proposal and its index entries; retained append-only audit history
+## [2026-08-04] ingest | Recorded six external 2027 course-directory sources in math, english, and 408 topics; original directories unchanged
+## [2026-08-04] compile | Updated the three materials references with course-directory availability and knowledge-point lookup rules; no study record inferred
