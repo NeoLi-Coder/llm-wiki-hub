@@ -2,9 +2,6 @@
 
 > 已综合的 408 知识文章。
 
-Last compiled: 2026-08-04
+Last compiled: 2026-08-07
 
-| File | Summary | Category | Updated |
-|---|---|---|---|
-| [408-first-round-learning-framework.md](topics/408-first-round-learning-framework.md) | 408 第一轮学习框架 | topic | 2026-08-02 |
-| [408-first-round-materials-and-schedule.md](references/408-first-round-materials-and-schedule.md) | 408 资料与第一轮执行节奏 | reference | 2026-08-04 |
+当前没有有效编译文章。后续只从实际复习指导内容和学习证据逐个编译知识点，不从 V1 计划生成学科知识。

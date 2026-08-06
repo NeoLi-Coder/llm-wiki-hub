@@ -10,3 +10,5 @@
 ## [2026-08-02] operations | Removed the applied kaoyan migration proposal and its index entries; retained append-only audit history
 ## [2026-08-04] ingest | Recorded six external 2027 course-directory sources in math, english, and 408 topics; original directories unchanged
 ## [2026-08-04] compile | Updated the three materials references with course-directory availability and knowledge-point lookup rules; no study record inferred
+## [2026-08-07] operations | Activated kaoyan active-learning strategy V2; removed the obsolete accepted V1 plan and imported pseudo-record; rebuilt current state, plan and record indexes
+## [2026-08-07] compile | Removed six V1-derived execution articles from math, english, and 408; rebuilt derived indexes; immutable raw sources retained as historical inputs

@@ -1,5 +1,5 @@
 # Records Index
 
-| Record | Result | Recorded |
-|---|---|---|
-| [2026-08-01 学习反馈](record-2026-08-01-001.md) | not-completed | 2026-08-02 |
+当前没有学习记录。
+
+只有用户明确反馈实际学习内容后才新增 Record。

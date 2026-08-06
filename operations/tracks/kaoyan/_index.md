@@ -5,10 +5,10 @@
 ## Current
 
 - [目标](GOAL.md)
-- [策略](STRATEGY.md)
+- [主动学习策略 V2](STRATEGY.md)
 - [当前状态](STATE.md)
-- [第一轮计划](plans/plan-2026-first-round.md)
-- [最近记录](records/record-2026-08-01-001.md)
+- [计划](plans/_index.md)：当前为空
+- [学习记录](records/_index.md)：当前为空
 
 ## Topics
 

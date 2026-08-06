@@ -2,6 +2,8 @@
 
 已导入 5 个英语一核心来源。
 
+> `*-v1*.md` 为不可变历史来源，已被主动学习策略 V2 取代，不再作为当前计划或执行依据。
+
 | File | Summary |
 |------|---------|
 | [2026-08-02-english-first-round-route-v1.md](2026-08-02-english-first-round-route-v1.md) | 英语一第一轮复习路线 |

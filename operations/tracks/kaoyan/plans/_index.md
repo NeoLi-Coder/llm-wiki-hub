@@ -1,5 +1,5 @@
 # Plans Index
 
-| Plan | Period | Status | Updated |
-|---|---|---|---|
-| [2026 年考研三科第一轮计划](plan-2026-first-round.md) | 2026-08-01/2026-12-31 | accepted | 2026-08-02 |
+当前没有已接受的阶段或每日计划。
+
+首份计划应在用户确认讲义起点和可用时间后，按 `plan-YYYY-MM-DD.md` 创建。
